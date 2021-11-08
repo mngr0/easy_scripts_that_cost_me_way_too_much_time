@@ -1,0 +1,1 @@
+openocd -s /usr/local/share/openocd/scripts/ -f board/microchip_same54_xplained_pro.cfg 
