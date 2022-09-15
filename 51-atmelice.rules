@@ -1,0 +1,7 @@
+    # Atmel-ICE JTAG/SWD in-circuit debugger
+    ATTRS{idVendor}=="03eb", ATTRS{idProduct}=="2141", MODE="664", GROUP="plugdev"
+
+    #sudo udevadm control --reload-rules
+    
+    #https://vk5tu.livejournal.com/56648.html
+    
